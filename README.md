@@ -52,4 +52,4 @@ mkdir -p pdf
 
    ## Project Demo
 
-![Medical RAG Chatbot](WhatsApp Image 2026-05-28 at 1.32.19 PM.jpeg)
+![Medical RAG Chatbot](screenshot.jpeg)
