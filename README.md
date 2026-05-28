@@ -50,4 +50,6 @@ mkdir -p pdf
   npm start
   Frontend will start on http://localhost:3000
 
-   
+   ## Project Demo
+
+![Medical RAG Chatbot](screenshot.png)
